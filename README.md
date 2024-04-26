@@ -16,7 +16,7 @@ This application is built using React, providing a seamless and intuitive user e
 
 1. **Clone the Repository**: Start by cloning the repository to your local machine using the following command:
    ```bash
-   git clone <repository-link>
+   git clone <git@github.com:ShailviBajpai/WEATHER-APP.git>
 2. **Install Dependencies**: Navigate into the project directory and install the necessary dependencies:
    ```bash
    npm install
